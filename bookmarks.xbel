@@ -309,102 +309,6 @@
     </bookmark>
   </folder>
 </folder>
-<folder id="121">
-  <title>generatore</title>
-  <bookmark href="https://originui.com/" id="122">
-    <title>Origin UI - Tailwind CSS components</title>
-  </bookmark>
-  <bookmark href="https://shaper.design/projects" id="123">
-    <title>shaper - css root generator</title>
-  </bookmark>
-  <bookmark href="https://allinone.tools/#tools" id="124">
-    <title>Free Online Tools - AllinOne.Tools</title>
-  </bookmark>
-  <bookmark href="https://www.kodytools.com/" id="125">
-    <title>Kody Tools</title>
-  </bookmark>
-  <bookmark href="https://mediaquery.style/" id="126">
-    <title>What was that media query code again??</title>
-  </bookmark>
-  <bookmark href="https://tooling.one/" id="127">
-    <title>One Tooling</title>
-  </bookmark>
-  <bookmark href="https://it-tools.tech/" id="128">
-    <title>IT Tools - Handy online tools for developers</title>
-  </bookmark>
-  <bookmark href="https://source.unsplash.com/random" id="129">
-    <title>random image</title>
-  </bookmark>
-  <bookmark href="https://omatsuri.app/" id="130">
-    <title>Omatsuri</title>
-  </bookmark>
-  <bookmark href="http://www.freeformatter.com/html-formatter.html" id="131">
-    <title></title>
-  </bookmark>
-  <bookmark href="https://techicons.dev/" id="132">
-    <title>SVG and PNG tech icons | TechIcons</title>
-  </bookmark>
-  <bookmark href="https://www.motionity.app/" id="133">
-    <title>Motionity - The web-based motion graphics editor for everyone</title>
-  </bookmark>
-  <bookmark href="https://www.checklist.design/" id="134">
-    <title>Checklist Design - best UI elements for the best UX practice</title>
-  </bookmark>
-  <bookmark href="http://www.generate-password.com/?language=it" id="135">
-    <title>Generatore di password - Crea password online casuali e sicure</title>
-  </bookmark>
-  <bookmark href="http://www.cssmatic.com/" id="136">
-    <title>The most complete CSS tools for web designers | CSSmatic</title>
-  </bookmark>
-  <bookmark href="http://fontastic.me/" id="137">
-    <title>Create Your Icon Fonts for Free. Icon Fonts Generator - Fontastic</title>
-  </bookmark>
-  <bookmark href="https://kraken.io/web-interface" id="138">
-    <title>Free Online Image Optimizer · Kraken.io</title>
-  </bookmark>
-  <bookmark href="http://tinypng.org/" id="139">
-    <title>TinyPNG – Compress PNG images while preserving transparency</title>
-  </bookmark>
-  <bookmark href="https://cssgradient.io/gradient-backgrounds/" id="140">
-    <title>Gradient Backgrounds – 🌈 The Best Gradient Sites All in One Place</title>
-  </bookmark>
-  <bookmark href="http://smartmockups.com/mockup/digital_mockuuups_1" id="141">
-    <title>Smartmockups - Create product screenshots with just a few clicks, for free!</title>
-  </bookmark>
-  <bookmark href="https://picular.co/" id="142">
-    <title>Picular</title>
-  </bookmark>
-  <bookmark href="http://lorempixel.com/" id="143">
-    <title>lorempixel - placeholder images for every case</title>
-  </bookmark>
-  <bookmark href="http://ourownthing.co.uk/gradpad.html#" id="144">
-    <title>CSS Colour Gradients with GradPad, beautiful CSS color gradient generator for your designs</title>
-  </bookmark>
-  <bookmark href="http://uigradients.com/" id="145">
-    <title>uiGradients - Beautiful coloured gradients</title>
-  </bookmark>
-  <bookmark href="http://cursorio.com/" id="146">
-    <title>Cursorio.com - grab your cursor right here</title>
-  </bookmark>
-  <bookmark href="https://jakearchibald.github.io/svgomg/" id="147">
-    <title>SVGOMG</title>
-  </bookmark>
-  <bookmark href="https://fontawesome.com/get-started/svg-with-js" id="148">
-    <title>use.fontawesome</title>
-  </bookmark>
-  <bookmark href="https://github.com/Mobirise/Mobirise" id="149">
-    <title>GitHub - Mobirise/Mobirise: Free Website Builder for Bootstrap 4</title>
-  </bookmark>
-  <bookmark href="https://cloudconvert.com/" id="150">
-    <title>convert anything to anything - CloudConvert</title>
-  </bookmark>
-  <bookmark href="https://fontdrop.info/" id="151">
-    <title>FontDrop!</title>
-  </bookmark>
-  <bookmark href="http://localhost:1339/admin" id="152">
-    <title>localhost</title>
-  </bookmark>
-</folder>
 <folder id="153">
   <title>AI</title>
   <bookmark href="https://toolfolio.io/" id="154">
@@ -419,13 +323,103 @@
   <bookmark href="https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide?utm_source=tldrnewsletter" id="157">
     <title>GitHub - ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide: Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.</title>
   </bookmark>
+  <folder id="121">
+    <title>generatore</title>
+    <bookmark href="https://originui.com/" id="122">
+      <title>Origin UI - Tailwind CSS components</title>
+    </bookmark>
+    <bookmark href="https://shaper.design/projects" id="123">
+      <title>shaper - css root generator</title>
+    </bookmark>
+    <bookmark href="https://allinone.tools/#tools" id="124">
+      <title>Free Online Tools - AllinOne.Tools</title>
+    </bookmark>
+    <bookmark href="https://www.kodytools.com/" id="125">
+      <title>Kody Tools</title>
+    </bookmark>
+    <bookmark href="https://mediaquery.style/" id="126">
+      <title>What was that media query code again??</title>
+    </bookmark>
+    <bookmark href="https://tooling.one/" id="127">
+      <title>One Tooling</title>
+    </bookmark>
+    <bookmark href="https://it-tools.tech/" id="128">
+      <title>IT Tools - Handy online tools for developers</title>
+    </bookmark>
+    <bookmark href="https://source.unsplash.com/random" id="129">
+      <title>random image</title>
+    </bookmark>
+    <bookmark href="https://omatsuri.app/" id="130">
+      <title>Omatsuri</title>
+    </bookmark>
+    <bookmark href="http://www.freeformatter.com/html-formatter.html" id="131">
+      <title></title>
+    </bookmark>
+    <bookmark href="https://techicons.dev/" id="132">
+      <title>SVG and PNG tech icons | TechIcons</title>
+    </bookmark>
+    <bookmark href="https://www.motionity.app/" id="133">
+      <title>Motionity - The web-based motion graphics editor for everyone</title>
+    </bookmark>
+    <bookmark href="https://www.checklist.design/" id="134">
+      <title>Checklist Design - best UI elements for the best UX practice</title>
+    </bookmark>
+    <bookmark href="http://www.generate-password.com/?language=it" id="135">
+      <title>Generatore di password - Crea password online casuali e sicure</title>
+    </bookmark>
+    <bookmark href="http://www.cssmatic.com/" id="136">
+      <title>The most complete CSS tools for web designers | CSSmatic</title>
+    </bookmark>
+    <bookmark href="http://fontastic.me/" id="137">
+      <title>Create Your Icon Fonts for Free. Icon Fonts Generator - Fontastic</title>
+    </bookmark>
+    <bookmark href="https://kraken.io/web-interface" id="138">
+      <title>Free Online Image Optimizer · Kraken.io</title>
+    </bookmark>
+    <bookmark href="http://tinypng.org/" id="139">
+      <title>TinyPNG – Compress PNG images while preserving transparency</title>
+    </bookmark>
+    <bookmark href="https://cssgradient.io/gradient-backgrounds/" id="140">
+      <title>Gradient Backgrounds – 🌈 The Best Gradient Sites All in One Place</title>
+    </bookmark>
+    <bookmark href="http://smartmockups.com/mockup/digital_mockuuups_1" id="141">
+      <title>Smartmockups - Create product screenshots with just a few clicks, for free!</title>
+    </bookmark>
+    <bookmark href="https://picular.co/" id="142">
+      <title>Picular</title>
+    </bookmark>
+    <bookmark href="http://lorempixel.com/" id="143">
+      <title>lorempixel - placeholder images for every case</title>
+    </bookmark>
+    <bookmark href="http://ourownthing.co.uk/gradpad.html#" id="144">
+      <title>CSS Colour Gradients with GradPad, beautiful CSS color gradient generator for your designs</title>
+    </bookmark>
+    <bookmark href="http://uigradients.com/" id="145">
+      <title>uiGradients - Beautiful coloured gradients</title>
+    </bookmark>
+    <bookmark href="http://cursorio.com/" id="146">
+      <title>Cursorio.com - grab your cursor right here</title>
+    </bookmark>
+    <bookmark href="https://jakearchibald.github.io/svgomg/" id="147">
+      <title>SVGOMG</title>
+    </bookmark>
+    <bookmark href="https://fontawesome.com/get-started/svg-with-js" id="148">
+      <title>use.fontawesome</title>
+    </bookmark>
+    <bookmark href="https://github.com/Mobirise/Mobirise" id="149">
+      <title>GitHub - Mobirise/Mobirise: Free Website Builder for Bootstrap 4</title>
+    </bookmark>
+    <bookmark href="https://cloudconvert.com/" id="150">
+      <title>convert anything to anything - CloudConvert</title>
+    </bookmark>
+    <bookmark href="https://fontdrop.info/" id="151">
+      <title>FontDrop!</title>
+    </bookmark>
+    <bookmark href="http://localhost:1339/admin" id="152">
+      <title>localhost</title>
+    </bookmark>
+  </folder>
 </folder>
-<bookmark href="https://wanderlog.com/" id="158">
-  <title>Wanderlog</title>
-</bookmark>
-<bookmark href="https://www.wheresyoured.at/" id="159">
-  <title>Ed Zitron&apos;s</title>
-</bookmark>
 <bookmark href="https://makerworld.com/en" id="160">
   <title>MakerWorld: Download Free 3D Printing Models</title>
 </bookmark>
