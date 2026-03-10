@@ -227,87 +227,87 @@
   <bookmark href="https://www.thisiscolossal.com/" id="42">
     <title>Colossal — The best of art, craft, and visual culture since 2010.</title>
   </bookmark>
-</folder>
-<folder id="44">
-  <title>study</title>
-  <bookmark href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" id="84">
-    <title>FLEX GUIDE</title>
-  </bookmark>
-  <bookmark href="https://stackdiary.com/css-media-queries/" id="85">
-    <title>A Practical Guide to CSS Media Queries - Stack Diary</title>
-  </bookmark>
-  <bookmark href="https://mediaquery.style/" id="86">
-    <title>What was that media query code again??</title>
-  </bookmark>
-  <bookmark href="https://fluidtypo3.org/viewhelpers.html" id="87">
-    <title>Fluid Powered TYPO3: ViewHelper reference</title>
-  </bookmark>
-  <bookmark href="https://www.nngroup.com/articles/progressive-disclosure/" id="88">
-    <title>Progressive Disclosure</title>
-  </bookmark>
-  <bookmark href="https://lawsofux.com/" id="89">
-    <title>Home | Laws of UX</title>
-  </bookmark>
-  <bookmark href="https://gist.github.com/anschaef/d7552885c0e1f127cf8830d3bbf6e4b1" id="90">
-    <title>B4 Mixins</title>
-  </bookmark>
-  <bookmark href="https://laracasts.com/series/laravel-6-from-scratch" id="91">
-    <title>Laracasts: Laravel 6 From Scratch</title>
-  </bookmark>
-  <bookmark href="https://fluidtypo3.org/viewhelpers.html" id="92">
-    <title>TYPO3</title>
-  </bookmark>
-  <bookmark href="https://tailwindcss.com/" id="93">
-    <title>Tailwind CSS - A Utility-First CSS Framework for Rapid UI Development</title>
-  </bookmark>
-  <bookmark href="https://blog.carthook.com/average-order-value-the-low-down-on-higher-profits/" id="94">
-    <title>Average Order Value: The Low-Down on Higher Profits</title>
-  </bookmark>
-  <bookmark href="https://caniuse.com/" id="95">
-    <title>Can I use... Support tables for HTML5, CSS3, etc</title>
-  </bookmark>
-  <bookmark href="http://webdesignerwall.com/tutorials/level-css-skills-20-pro-css-tips" id="96">
-    <title>Level Up Your CSS Skills With These 20 Pro CSS Tips - Web Designer Wall - Design Trends and Tutorials</title>
-  </bookmark>
-  <bookmark href="http://webdesignerwall.com/trends/design-trends-2016-expect-2017" id="97">
-    <title>Design Trends in 2016 &amp; What to Expect in 2017 - Web Designer Wall - Design Trends and Tutorials</title>
-  </bookmark>
-  <bookmark href="http://webdesignerwall.com/tutorials/zoom-hero-images-scroll" id="98">
-    <title>How to Zoom Hero Images on Scroll - Web Designer Wall - Design Trends and Tutorials</title>
-  </bookmark>
-  <bookmark href="https://images.guide/" id="99">
-    <title>Essential Image Optimization</title>
-  </bookmark>
-  <bookmark href="https://uxdesign.cc/questions-ux-designers-should-be-asking-bc9a6ba87a34" id="100">
-    <title>Questions UX Designers Should be Asking – uxdesign.cc</title>
-  </bookmark>
-  <bookmark href="https://aerolab.co/blog/flexbox-grids/" id="101">
-    <title>Flexbox and Grids, your layout’s best friends</title>
-  </bookmark>
-  <bookmark href="https://supernova.studio/" id="102">
-    <title>Supernova Studio | The World&apos;s First Design to Code Platform</title>
-  </bookmark>
-  <bookmark href="https://uxdesign.cc/5-ux-books-thatll-change-how-you-think-about-design-4925a0d51de7" id="103">
-    <title>books</title>
-  </bookmark>
-  <bookmark href="https://developer.mozilla.org/it/docs/Web/HTML/Sections_and_Outlines_of_an_HTML5_document" id="104">
-    <title>sect</title>
-  </bookmark>
-  <bookmark href="https://moderncss.dev/" id="105">
-    <title>Modern CSS Solutions</title>
-  </bookmark>
-  <bookmark href="https://admin.vitecimagingsolutions.com/contents/typo3/index.php?route=%2Fmain&amp;token=04e48faed77ccbc7e88779e820efecf92a2aa6fe" id="106">
-    <title>Vitec Imaging Solutions NEW [TYPO3 CMS 8.7.31]</title>
-  </bookmark>
-  <bookmark href="https://utopia.fyi/space/calculator/" id="107">
-    <title>Fluid Space Calculator | Utopia</title>
-  </bookmark>
-  <bookmark href="https://uxdesign.cc/picking-a-good-brand-name-with-help-of-science-3ae7f2dc50d" id="108">
-    <title>Picking a good brand name with help of science | by Stanislav Stankovic | Mar, 2022 | UX Collective</title>
-  </bookmark>
-  <bookmark href="https://contrast-grid.eightshapes.com/" id="109">
-    <title>EightShapes Contrast Grid</title>
-  </bookmark>
+  <folder id="44">
+    <title>study</title>
+    <bookmark href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" id="84">
+      <title>FLEX GUIDE</title>
+    </bookmark>
+    <bookmark href="https://stackdiary.com/css-media-queries/" id="85">
+      <title>A Practical Guide to CSS Media Queries - Stack Diary</title>
+    </bookmark>
+    <bookmark href="https://mediaquery.style/" id="86">
+      <title>What was that media query code again??</title>
+    </bookmark>
+    <bookmark href="https://fluidtypo3.org/viewhelpers.html" id="87">
+      <title>Fluid Powered TYPO3: ViewHelper reference</title>
+    </bookmark>
+    <bookmark href="https://www.nngroup.com/articles/progressive-disclosure/" id="88">
+      <title>Progressive Disclosure</title>
+    </bookmark>
+    <bookmark href="https://lawsofux.com/" id="89">
+      <title>Home | Laws of UX</title>
+    </bookmark>
+    <bookmark href="https://gist.github.com/anschaef/d7552885c0e1f127cf8830d3bbf6e4b1" id="90">
+      <title>B4 Mixins</title>
+    </bookmark>
+    <bookmark href="https://laracasts.com/series/laravel-6-from-scratch" id="91">
+      <title>Laracasts: Laravel 6 From Scratch</title>
+    </bookmark>
+    <bookmark href="https://fluidtypo3.org/viewhelpers.html" id="92">
+      <title>TYPO3</title>
+    </bookmark>
+    <bookmark href="https://tailwindcss.com/" id="93">
+      <title>Tailwind CSS - A Utility-First CSS Framework for Rapid UI Development</title>
+    </bookmark>
+    <bookmark href="https://blog.carthook.com/average-order-value-the-low-down-on-higher-profits/" id="94">
+      <title>Average Order Value: The Low-Down on Higher Profits</title>
+    </bookmark>
+    <bookmark href="https://caniuse.com/" id="95">
+      <title>Can I use... Support tables for HTML5, CSS3, etc</title>
+    </bookmark>
+    <bookmark href="http://webdesignerwall.com/tutorials/level-css-skills-20-pro-css-tips" id="96">
+      <title>Level Up Your CSS Skills With These 20 Pro CSS Tips - Web Designer Wall - Design Trends and Tutorials</title>
+    </bookmark>
+    <bookmark href="http://webdesignerwall.com/trends/design-trends-2016-expect-2017" id="97">
+      <title>Design Trends in 2016 &amp; What to Expect in 2017 - Web Designer Wall - Design Trends and Tutorials</title>
+    </bookmark>
+    <bookmark href="http://webdesignerwall.com/tutorials/zoom-hero-images-scroll" id="98">
+      <title>How to Zoom Hero Images on Scroll - Web Designer Wall - Design Trends and Tutorials</title>
+    </bookmark>
+    <bookmark href="https://images.guide/" id="99">
+      <title>Essential Image Optimization</title>
+    </bookmark>
+    <bookmark href="https://uxdesign.cc/questions-ux-designers-should-be-asking-bc9a6ba87a34" id="100">
+      <title>Questions UX Designers Should be Asking – uxdesign.cc</title>
+    </bookmark>
+    <bookmark href="https://aerolab.co/blog/flexbox-grids/" id="101">
+      <title>Flexbox and Grids, your layout’s best friends</title>
+    </bookmark>
+    <bookmark href="https://supernova.studio/" id="102">
+      <title>Supernova Studio | The World&apos;s First Design to Code Platform</title>
+    </bookmark>
+    <bookmark href="https://uxdesign.cc/5-ux-books-thatll-change-how-you-think-about-design-4925a0d51de7" id="103">
+      <title>books</title>
+    </bookmark>
+    <bookmark href="https://developer.mozilla.org/it/docs/Web/HTML/Sections_and_Outlines_of_an_HTML5_document" id="104">
+      <title>sect</title>
+    </bookmark>
+    <bookmark href="https://moderncss.dev/" id="105">
+      <title>Modern CSS Solutions</title>
+    </bookmark>
+    <bookmark href="https://admin.vitecimagingsolutions.com/contents/typo3/index.php?route=%2Fmain&amp;token=04e48faed77ccbc7e88779e820efecf92a2aa6fe" id="106">
+      <title>Vitec Imaging Solutions NEW [TYPO3 CMS 8.7.31]</title>
+    </bookmark>
+    <bookmark href="https://utopia.fyi/space/calculator/" id="107">
+      <title>Fluid Space Calculator | Utopia</title>
+    </bookmark>
+    <bookmark href="https://uxdesign.cc/picking-a-good-brand-name-with-help-of-science-3ae7f2dc50d" id="108">
+      <title>Picking a good brand name with help of science | by Stanislav Stankovic | Mar, 2022 | UX Collective</title>
+    </bookmark>
+    <bookmark href="https://contrast-grid.eightshapes.com/" id="109">
+      <title>EightShapes Contrast Grid</title>
+    </bookmark>
+  </folder>
 </folder>
 <folder id="121">
   <title>generatore</title>
