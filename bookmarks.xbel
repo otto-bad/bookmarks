@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :173: for Floccus bookmark sync browser extension -->
+
+<bookmark href="https://www.google.com/" id="1">
+  <title></title>
+</bookmark>
+<bookmark href="https://mail.google.com/mail/u/0/#inbox" id="2">
+  <title></title>
+</bookmark>
+<bookmark href="https://gemini.google.com/app" id="3">
+  <title>gemini</title>
+</bookmark>
+<bookmark href="https://chat.openai.com/chat" id="4">
+  <title></title>
+</bookmark>
+<bookmark href="http://dev.spaziozephiro.it/" id="5">
+  <title>Default Site</title>
+</bookmark>
+<bookmark href="https://bitbucket.org/vitec_imaging_solutions/lowepro-m2-sources/src/master/" id="6">
+  <title></title>
+</bookmark>
+<bookmark href="https://european-alternatives.eu/alternatives-to?ref=sidebar" id="7">
+  <title>European alternatives for popular services | European Alternatives</title>
+</bookmark>
+<folder id="8">
+  <title>open</title>
+  <bookmark href="https://www.opensourcealternative.to/project/appwrite" id="11">
+    <title>Appwrite | Open Source Alternative to Firebase</title>
+  </bookmark>
+  <bookmark href="https://www.opensourcealternative.to/project/typebot.io" id="12">
+    <title>Typebot.io | Open Source Alternative to Landbot, Typeform</title>
+  </bookmark>
+  <bookmark href="https://www.opensourcealternative.to/project/postiz" id="13">
+    <title>Postiz | Open Source Alternative to Buffer</title>
+  </bookmark>
+  <bookmark href="https://www.opensourcealternative.to/project/chatwoot" id="14">
+    <title>chatwoot | Open Source Alternative to Intercom</title>
+  </bookmark>
+  <bookmark href="https://github.com/twentyhq/twenty" id="15">
+    <title>GitHub - twentyhq/twenty: Building a modern alternative to Salesforce, powered by the community.</title>
+  </bookmark>
+  <bookmark href="https://awesome-selfhosted.net/" id="16">
+    <title>awesome-selfhosted</title>
+  </bookmark>
+</folder>
+<folder id="9">
+  <title>cool</title>
+  <bookmark href="https://mobbin.com/" id="17">
+    <title>Mobbin — UI &amp; UX design inspiration for mobile &amp; web apps</title>
+  </bookmark>
+  <bookmark href="https://karpathy.ai/zero-to-hero.html" id="18">
+    <title>Neural Networks: Zero To Hero</title>
+  </bookmark>
+  <bookmark href="https://www.opensourcealternative.to/" id="19">
+    <title>Open Source Alternatives to Proprietary Software</title>
+  </bookmark>
+  <bookmark href="https://github.com/sindresorhus/awesome" id="20">
+    <title>GitHub - sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics</title>
+  </bookmark>
+  <bookmark href="https://www.freecodecamp.org/learn" id="21">
+    <title>Learn to Code — For Free — Coding Courses for Busy People</title>
+  </bookmark>
+  <bookmark href="https://github.com/mtdvio/every-programmer-should-know?utm_source=tldrnewsletter" id="22">
+    <title>GitHub - mtdvio/every-programmer-should-know: A collection of (mostly) technical things every software developer should know about</title>
+  </bookmark>
+  <folder id="23">
+    <title>SW</title>
+    <bookmark href="https://nyxt.atlas.engineer/" id="45">
+      <title>Nyxt browser: The hacker&apos;s browser</title>
+    </bookmark>
+    <bookmark href="https://www.blackmagicdesign.com/products/davinciresolve/" id="46">
+      <title>VIDEO EDITING FREE - DaVinci Resolve</title>
+    </bookmark>
+    <bookmark href="https://appsmith.com/" id="47">
+      <title>Appsmith</title>
+    </bookmark>
+    <bookmark href="https://www.budibase.com/" id="48">
+      <title>Budibase | Open source low code platform you&apos;ll enjoy using</title>
+    </bookmark>
+    <bookmark href="https://retool.com/" id="49">
+      <title>Retool | Build internal tools, remarkably fast.</title>
+    </bookmark>
+    <bookmark href="https://openblocks.dev/" id="50">
+      <title>Openblocks - Open-source low code platform</title>
+    </bookmark>
+    <bookmark href="https://github.com/freescout-helpdesk/freescout" id="51">
+      <title>GitHub - freescout-helpdesk - tipo jira</title>
+    </bookmark>
+    <bookmark href="https://github.com/crisdosyago/Diskernet" id="52">
+      <title>GitHub - crisdosyago/Diskernet - Webhistory automatica</title>
+    </bookmark>
+    <bookmark href="https://github.com/invoke-ai/InvokeAI#installation" id="53">
+      <title>GitHub - invoke-ai/InvokeAI: This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a &quot;dream bot&quot; style interface, and multiple features and other enhancements. For more info, see the website link below.</title>
+    </bookmark>
+    <bookmark href="https://apislist.com/" id="54">
+      <title>The Public APIs List, a curated list for the public web Apis</title>
+    </bookmark>
+  </folder>
+  <folder id="24">
+    <title>?</title>
+    <folder id="55">
+      <title>foto</title>
+      <bookmark href="https://www.lifeofpix.com/" id="110">
+        <title>Free high resolution photography - Life of Pix - Home</title>
+      </bookmark>
+      <bookmark href="https://www.pexels.com/" id="111">
+        <title>Free stock photos · Pexels</title>
+      </bookmark>
+      <bookmark href="http://littlevisuals.co/" id="112">
+        <title>Little Visuals - Sign up to get 7 hi-res images zipped up in your inbox every 7 days. Use them anyway you want.</title>
+      </bookmark>
+      <bookmark href="http://unsplash.com/" id="113">
+        <title>Unsplash</title>
+      </bookmark>
+      <bookmark href="http://join.deathtothestockphoto.com/" id="114">
+        <title>- Death to the Stock Photo</title>
+      </bookmark>
+      <bookmark href="http://nos.twnsnd.co/" id="115">
+        <title>New Old Stock</title>
+      </bookmark>
+      <bookmark href="http://picjumbo.com/" id="116">
+        <title>picjumbo — totally free photos for your commercial &amp; personal works</title>
+      </bookmark>
+      <bookmark href="http://www.gratisography.com/" id="117">
+        <title>Gratisography: Free, use as you please, high-resolution pictures.</title>
+      </bookmark>
+      <bookmark href="http://getrefe.tumblr.com/" id="118">
+        <title>Free Refe Mobile Photos</title>
+      </bookmark>
+      <bookmark href="http://imcreator.com/free" id="119">
+        <title>IM Free - Free Design Resources | Free Images</title>
+      </bookmark>
+      <bookmark href="https://www.stockio.com/" id="120">
+        <title>Stockio.com - Download Free Vectors, Photos, Icons, Fonts and Videos</title>
+      </bookmark>
+    </folder>
+    <bookmark href="http://links.laughingsquid.com/" id="56">
+      <title>Laughing Squid Links</title>
+    </bookmark>
+    <bookmark href="http://society6.com/" id="57">
+      <title>Society6 | Affordable Art Prints, iPhone Cases and T-shirts</title>
+    </bookmark>
+    <bookmark href="https://www.khanacademy.org/" id="58">
+      <title>Khan Academy</title>
+    </bookmark>
+    <bookmark href="https://nibirumail.com/cookies/analisi/" id="59">
+      <title>Cookie</title>
+    </bookmark>
+    <bookmark href="https://app.zeplin.io/project/623b3a611a74f10ff150bd51/dashboard?sid=626bb0b6b82152111d8c479a" id="60">
+      <title>Dashboard</title>
+    </bookmark>
+  </folder>
+</folder>
+<folder id="10">
+  <title>tips</title>
+  <folder id="25">
+    <title>sidebar alike</title>
+    <bookmark href="https://heydesigner.com/" id="61">
+      <title>HeyDesigner</title>
+    </bookmark>
+    <bookmark href="https://webdesignernews.com/" id="62">
+      <title>Web Designer News</title>
+    </bookmark>
+    <bookmark href="https://flowingdata.com/" id="63">
+      <title>FlowingData | Data Visualization and Statistics</title>
+    </bookmark>
+    <bookmark href="https://kottke.org/" id="64">
+      <title>kottke.org - home of fine hypertext products</title>
+    </bookmark>
+    <bookmark href="https://frontenddogma.com/" id="65">
+      <title>News and Tools for Frontend Development · Frontend Dogma</title>
+    </bookmark>
+    <bookmark href="https://frontendfront.com/" id="66">
+      <title>Front-End Front — Basically, front-end news</title>
+    </bookmark>
+    <bookmark href="https://www.underconsideration.com/brandnew/" id="67">
+      <title>Brand New</title>
+    </bookmark>
+    <bookmark href="https://the-brandidentity.com/" id="68">
+      <title>The Brand Identity – Graphic Design’s Greatest</title>
+    </bookmark>
+    <bookmark href="https://tympanus.net/codrops/collective/" id="69">
+      <title>Collective | Codrops</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://calltoinspiration.com/" id="26">
+    <title>CallToInspiration – Small details for very exacting ideas!</title>
+  </bookmark>
+  <bookmark href="https://www.offscreenmag.com/" id="27">
+    <title>Offscreen Magazine – The Human Side of Technology</title>
+  </bookmark>
+  <bookmark href="https://cccreate.co/" id="28">
+    <title>cccreate → carefully curated collection of tools for web creators</title>
+  </bookmark>
+  <bookmark href="http://sidebar.io/" id="29">
+    <title>Sidebar: A List of Links</title>
+  </bookmark>
+  <bookmark href="https://alistapart.com/" id="30">
+    <title>A List Apart – For people who make websites</title>
+  </bookmark>
+  <bookmark href="https://cssauthor.com/" id="31">
+    <title>Design &amp; Development Related Blog</title>
+  </bookmark>
+  <bookmark href="http://www.smashingmagazine.com/" id="32">
+    <title>Smashing Magazine — For Professional Web Designers and Developers</title>
+  </bookmark>
+  <bookmark href="https://digitalpsychology.io/" id="33">
+    <title>Digital Psychology</title>
+  </bookmark>
+  <bookmark href="http://tympanus.net/codrops/" id="34">
+    <title>Codrops - useful drops of code</title>
+  </bookmark>
+  <bookmark href="https://modern-fluid-typography.vercel.app/" id="35">
+    <title>Modern fluid typography editor</title>
+  </bookmark>
+  <bookmark href="http://dribbble.com/" id="36">
+    <title>Dribbble - Show and tell for designers</title>
+  </bookmark>
+  <bookmark href="http://speckyboy.com/" id="37">
+    <title>Speckyboy Design Magazine</title>
+  </bookmark>
+  <bookmark href="http://www.hongkiat.com/blog/" id="38">
+    <title>Online Tips for Tech Users, Designers and Bloggers</title>
+  </bookmark>
+  <bookmark href="https://www.sitepoint.com/" id="39">
+    <title>SitePoint – Learn HTML, CSS, JavaScript, PHP, UX &amp; Responsive Design</title>
+  </bookmark>
+  <bookmark href="https://github.com/dypsilon/frontend-dev-bookmarks" id="40">
+    <title>GitHub - dypsilon/frontend-dev-bookmarks: Manually curated collection of resources for frontend web developers.</title>
+  </bookmark>
+  <bookmark href="https://www.supahero.io/" id="41">
+    <title>Supahero - Website hero section library</title>
+  </bookmark>
+  <bookmark href="https://www.thisiscolossal.com/" id="42">
+    <title>Colossal — The best of art, craft, and visual culture since 2010.</title>
+  </bookmark>
+</folder>
+<folder id="43">
+  <title>VMS</title>
+  <bookmark href="https://vitecimagingsolutions.lightning.force.com/" id="70">
+    <title>Home | Salesforce</title>
+  </bookmark>
+  <bookmark href="https://vitecgroup.atlassian.net/jira/dashboards/10032" id="71">
+    <title>Jira</title>
+  </bookmark>
+  <bookmark href="http://mc.exacttarget.com/" id="72">
+    <title>Salesforce marketing cloud</title>
+  </bookmark>
+  <bookmark href="https://vms.welfare.it/login" id="73">
+    <title>Welfare Vitecgroup</title>
+  </bookmark>
+  <bookmark href="https://hcmcloud.talentiasw.com/hcmwebvidendum/home.asp" id="74">
+    <title>Talentia HCM - VITEC</title>
+  </bookmark>
+  <bookmark href="https://www.shareview.co.uk/Clients/Videndum/default.htm" id="75">
+    <title>Videndum 2022 Sharesave | Welcome</title>
+  </bookmark>
+  <bookmark href="https://www.esp-portal.com/1/eportal/VitecEmployee/en/active/pages/welcome.aspx" id="76">
+    <title>Equiniti - ESP - azioni vitec</title>
+  </bookmark>
+  <bookmark href="https://hevelop.atlassian.net/servicedesk/customer/user/requests?page=1&amp;reporter=others" id="77">
+    <title>HEVELOP - Service Desk</title>
+  </bookmark>
+  <bookmark href="https://erp.hevelop.com/web/project/backlog?c=a77e248eeeecca25ac51395946bf0e80e2fe620ef664231ac9b8177d15de4dc0&amp;project=101" id="78">
+    <title>Dashboard Progetto - Hevelop - Hevelop ERP</title>
+  </bookmark>
+  <bookmark href="https://auth.myareaf2a.com/login" id="79">
+    <title>Login</title>
+  </bookmark>
+  <bookmark href="https://necsi.pigrecoos.it/" id="80">
+    <title>Formazione continua</title>
+  </bookmark>
+  <bookmark href="https://erp.euroristorazione.it/account/login" id="81">
+    <title>Mensa</title>
+  </bookmark>
+  <bookmark href="https://delim.co/" id="82">
+    <title>Free Online Comma Separator Tool</title>
+  </bookmark>
+  <bookmark href="https://bitbucket.org/dashboard/overview" id="83">
+    <title>Overview — Bitbucket</title>
+  </bookmark>
+</folder>
+<folder id="44">
+  <title>study</title>
+  <bookmark href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" id="84">
+    <title>FLEX GUIDE</title>
+  </bookmark>
+  <bookmark href="https://stackdiary.com/css-media-queries/" id="85">
+    <title>A Practical Guide to CSS Media Queries - Stack Diary</title>
+  </bookmark>
+  <bookmark href="https://mediaquery.style/" id="86">
+    <title>What was that media query code again??</title>
+  </bookmark>
+  <bookmark href="https://fluidtypo3.org/viewhelpers.html" id="87">
+    <title>Fluid Powered TYPO3: ViewHelper reference</title>
+  </bookmark>
+  <bookmark href="https://www.nngroup.com/articles/progressive-disclosure/" id="88">
+    <title>Progressive Disclosure</title>
+  </bookmark>
+  <bookmark href="https://lawsofux.com/" id="89">
+    <title>Home | Laws of UX</title>
+  </bookmark>
+  <bookmark href="https://gist.github.com/anschaef/d7552885c0e1f127cf8830d3bbf6e4b1" id="90">
+    <title>B4 Mixins</title>
+  </bookmark>
+  <bookmark href="https://laracasts.com/series/laravel-6-from-scratch" id="91">
+    <title>Laracasts: Laravel 6 From Scratch</title>
+  </bookmark>
+  <bookmark href="https://fluidtypo3.org/viewhelpers.html" id="92">
+    <title>TYPO3</title>
+  </bookmark>
+  <bookmark href="https://tailwindcss.com/" id="93">
+    <title>Tailwind CSS - A Utility-First CSS Framework for Rapid UI Development</title>
+  </bookmark>
+  <bookmark href="https://blog.carthook.com/average-order-value-the-low-down-on-higher-profits/" id="94">
+    <title>Average Order Value: The Low-Down on Higher Profits</title>
+  </bookmark>
+  <bookmark href="https://caniuse.com/" id="95">
+    <title>Can I use... Support tables for HTML5, CSS3, etc</title>
+  </bookmark>
+  <bookmark href="http://webdesignerwall.com/tutorials/level-css-skills-20-pro-css-tips" id="96">
+    <title>Level Up Your CSS Skills With These 20 Pro CSS Tips - Web Designer Wall - Design Trends and Tutorials</title>
+  </bookmark>
+  <bookmark href="http://webdesignerwall.com/trends/design-trends-2016-expect-2017" id="97">
+    <title>Design Trends in 2016 &amp; What to Expect in 2017 - Web Designer Wall - Design Trends and Tutorials</title>
+  </bookmark>
+  <bookmark href="http://webdesignerwall.com/tutorials/zoom-hero-images-scroll" id="98">
+    <title>How to Zoom Hero Images on Scroll - Web Designer Wall - Design Trends and Tutorials</title>
+  </bookmark>
+  <bookmark href="https://images.guide/" id="99">
+    <title>Essential Image Optimization</title>
+  </bookmark>
+  <bookmark href="https://uxdesign.cc/questions-ux-designers-should-be-asking-bc9a6ba87a34" id="100">
+    <title>Questions UX Designers Should be Asking – uxdesign.cc</title>
+  </bookmark>
+  <bookmark href="https://aerolab.co/blog/flexbox-grids/" id="101">
+    <title>Flexbox and Grids, your layout’s best friends</title>
+  </bookmark>
+  <bookmark href="https://supernova.studio/" id="102">
+    <title>Supernova Studio | The World&apos;s First Design to Code Platform</title>
+  </bookmark>
+  <bookmark href="https://uxdesign.cc/5-ux-books-thatll-change-how-you-think-about-design-4925a0d51de7" id="103">
+    <title>books</title>
+  </bookmark>
+  <bookmark href="https://developer.mozilla.org/it/docs/Web/HTML/Sections_and_Outlines_of_an_HTML5_document" id="104">
+    <title>sect</title>
+  </bookmark>
+  <bookmark href="https://moderncss.dev/" id="105">
+    <title>Modern CSS Solutions</title>
+  </bookmark>
+  <bookmark href="https://admin.vitecimagingsolutions.com/contents/typo3/index.php?route=%2Fmain&amp;token=04e48faed77ccbc7e88779e820efecf92a2aa6fe" id="106">
+    <title>Vitec Imaging Solutions NEW [TYPO3 CMS 8.7.31]</title>
+  </bookmark>
+  <bookmark href="https://utopia.fyi/space/calculator/" id="107">
+    <title>Fluid Space Calculator | Utopia</title>
+  </bookmark>
+  <bookmark href="https://uxdesign.cc/picking-a-good-brand-name-with-help-of-science-3ae7f2dc50d" id="108">
+    <title>Picking a good brand name with help of science | by Stanislav Stankovic | Mar, 2022 | UX Collective</title>
+  </bookmark>
+  <bookmark href="https://contrast-grid.eightshapes.com/" id="109">
+    <title>EightShapes Contrast Grid</title>
+  </bookmark>
+</folder>
+<folder id="121">
+  <title>generatore</title>
+  <bookmark href="https://originui.com/" id="122">
+    <title>Origin UI - Tailwind CSS components</title>
+  </bookmark>
+  <bookmark href="https://shaper.design/projects" id="123">
+    <title>shaper - css root generator</title>
+  </bookmark>
+  <bookmark href="https://allinone.tools/#tools" id="124">
+    <title>Free Online Tools - AllinOne.Tools</title>
+  </bookmark>
+  <bookmark href="https://www.kodytools.com/" id="125">
+    <title>Kody Tools</title>
+  </bookmark>
+  <bookmark href="https://mediaquery.style/" id="126">
+    <title>What was that media query code again??</title>
+  </bookmark>
+  <bookmark href="https://tooling.one/" id="127">
+    <title>One Tooling</title>
+  </bookmark>
+  <bookmark href="https://it-tools.tech/" id="128">
+    <title>IT Tools - Handy online tools for developers</title>
+  </bookmark>
+  <bookmark href="https://source.unsplash.com/random" id="129">
+    <title>random image</title>
+  </bookmark>
+  <bookmark href="https://omatsuri.app/" id="130">
+    <title>Omatsuri</title>
+  </bookmark>
+  <bookmark href="http://www.freeformatter.com/html-formatter.html" id="131">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://techicons.dev/" id="132">
+    <title>SVG and PNG tech icons | TechIcons</title>
+  </bookmark>
+  <bookmark href="https://www.motionity.app/" id="133">
+    <title>Motionity - The web-based motion graphics editor for everyone</title>
+  </bookmark>
+  <bookmark href="https://www.checklist.design/" id="134">
+    <title>Checklist Design - best UI elements for the best UX practice</title>
+  </bookmark>
+  <bookmark href="http://www.generate-password.com/?language=it" id="135">
+    <title>Generatore di password - Crea password online casuali e sicure</title>
+  </bookmark>
+  <bookmark href="http://www.cssmatic.com/" id="136">
+    <title>The most complete CSS tools for web designers | CSSmatic</title>
+  </bookmark>
+  <bookmark href="http://fontastic.me/" id="137">
+    <title>Create Your Icon Fonts for Free. Icon Fonts Generator - Fontastic</title>
+  </bookmark>
+  <bookmark href="https://kraken.io/web-interface" id="138">
+    <title>Free Online Image Optimizer · Kraken.io</title>
+  </bookmark>
+  <bookmark href="http://tinypng.org/" id="139">
+    <title>TinyPNG – Compress PNG images while preserving transparency</title>
+  </bookmark>
+  <bookmark href="https://cssgradient.io/gradient-backgrounds/" id="140">
+    <title>Gradient Backgrounds – 🌈 The Best Gradient Sites All in One Place</title>
+  </bookmark>
+  <bookmark href="http://smartmockups.com/mockup/digital_mockuuups_1" id="141">
+    <title>Smartmockups - Create product screenshots with just a few clicks, for free!</title>
+  </bookmark>
+  <bookmark href="https://picular.co/" id="142">
+    <title>Picular</title>
+  </bookmark>
+  <bookmark href="http://lorempixel.com/" id="143">
+    <title>lorempixel - placeholder images for every case</title>
+  </bookmark>
+  <bookmark href="http://ourownthing.co.uk/gradpad.html#" id="144">
+    <title>CSS Colour Gradients with GradPad, beautiful CSS color gradient generator for your designs</title>
+  </bookmark>
+  <bookmark href="http://uigradients.com/" id="145">
+    <title>uiGradients - Beautiful coloured gradients</title>
+  </bookmark>
+  <bookmark href="http://cursorio.com/" id="146">
+    <title>Cursorio.com - grab your cursor right here</title>
+  </bookmark>
+  <bookmark href="https://jakearchibald.github.io/svgomg/" id="147">
+    <title>SVGOMG</title>
+  </bookmark>
+  <bookmark href="https://fontawesome.com/get-started/svg-with-js" id="148">
+    <title>use.fontawesome</title>
+  </bookmark>
+  <bookmark href="https://github.com/Mobirise/Mobirise" id="149">
+    <title>GitHub - Mobirise/Mobirise: Free Website Builder for Bootstrap 4</title>
+  </bookmark>
+  <bookmark href="https://cloudconvert.com/" id="150">
+    <title>convert anything to anything - CloudConvert</title>
+  </bookmark>
+  <bookmark href="https://fontdrop.info/" id="151">
+    <title>FontDrop!</title>
+  </bookmark>
+  <bookmark href="http://localhost:1339/admin" id="152">
+    <title>localhost</title>
+  </bookmark>
+</folder>
+<folder id="153">
+  <title>AI</title>
+  <bookmark href="https://toolfolio.io/" id="154">
+    <title>Toolfolio</title>
+  </bookmark>
+  <bookmark href="https://uxdesign.cc/i-built-an-ai-that-answers-questions-based-on-my-user-research-data-7207b052e21c" id="155">
+    <title>I built an AI that answers questions based on my user research data | by Irina Nik | Feb, 2023 | UX Collective</title>
+  </bookmark>
+  <bookmark href="https://allthingsai.com/" id="156">
+    <title>All Things AI - The Complete Resource Of Artificial Intelligence Tools &amp; Services</title>
+  </bookmark>
+  <bookmark href="https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide?utm_source=tldrnewsletter" id="157">
+    <title>GitHub - ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide: Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.</title>
+  </bookmark>
+</folder>
+<bookmark href="https://wanderlog.com/" id="158">
+  <title>Wanderlog</title>
+</bookmark>
+<bookmark href="https://www.wheresyoured.at/" id="159">
+  <title>Ed Zitron&apos;s</title>
+</bookmark>
+<bookmark href="https://makerworld.com/en" id="160">
+  <title>MakerWorld: Download Free 3D Printing Models</title>
+</bookmark>
+<bookmark href="https://docs.google.com/document/d/1uiwYJ0R7z-iCg2i6WS_95VwDZiBfaVnPLACpftWsCRc/edit?usp=sharing" id="161">
+  <title>Serverino info</title>
+</bookmark>
+<bookmark href="https://impreza22.us-themes.com/wp-content/uploads/2021/12/doctor-1-721x605.jpg" id="162">
+  <title></title>
+</bookmark>
+<bookmark href="https://spaziozephiro.it/index.php/dashboard/system" id="163">
+  <title>Spazio Zephiro :: Sistema e impostazioni</title>
+</bookmark>
+<bookmark href="https://github.com/" id="164">
+  <title></title>
+</bookmark>
+<bookmark href="https://github.com/trending" id="165">
+  <title>Trending repositories on GitHub today</title>
+</bookmark>
+<folder id="166">
+  <title>Tools</title>
+  <bookmark href="https://viewdns.info/" id="168">
+    <title>ViewDNS.info - Your trusted source for domain and IP intelligence!</title>
+  </bookmark>
+  <bookmark href="https://dkimvalidator.com/" id="169">
+    <title>DKIM, SPF, and Spam Assassin Validator - dkimvalidator.com</title>
+  </bookmark>
+  <bookmark href="https://gtmetrix.com/" id="170">
+    <title>GTmetrix | Website Performance Testing and Monitoring</title>
+  </bookmark>
+  <bookmark href="https://www.startpage.com/" id="171">
+    <title>Startpage - Private Search Engine. No Tracking. No Search History.</title>
+  </bookmark>
+  <bookmark href="https://haveibeenpwned.com/" id="172">
+    <title>Have I Been Pwned: Check if your email address has been exposed in a data breach</title>
+  </bookmark>
+  <bookmark href="https://github.com/trimstray/the-book-of-secret-knowledge" id="173">
+    <title>trimstray/the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.</title>
+  </bookmark>
+</folder>
+<bookmark href="https://www.iliad.it/account/" id="167">
+  <title>Benvenuto in iliad - iliad</title>
+</bookmark>
+</xbel>
