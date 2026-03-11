@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :174: for Floccus bookmark sync browser extension -->
+<!--- highestId :175: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.google.com/" id="1">
   <title></title>
@@ -311,6 +311,9 @@
       <title>EightShapes Contrast Grid</title>
     </bookmark>
   </folder>
+  <bookmark href="https://monoskop.org/Monoskop" id="175">
+    <title>Monoskop</title>
+  </bookmark>
 </folder>
 <folder id="166">
   <title>Tools</title>
