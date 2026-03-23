@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :175: for Floccus bookmark sync browser extension -->
+<!--- highestId :176: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.google.com/" id="1">
   <title></title>
@@ -334,6 +334,9 @@
   </bookmark>
   <bookmark href="https://github.com/trimstray/the-book-of-secret-knowledge" id="173">
     <title>trimstray/the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.</title>
+  </bookmark>
+  <bookmark href="https://tools.rmv.fyi/" id="176">
+    <title>delphitools</title>
   </bookmark>
 </folder>
 <folder id="153">
