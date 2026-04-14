@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :178: for Floccus bookmark sync browser extension -->
+<!--- highestId :179: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.google.com/" id="1">
   <title></title>
@@ -458,5 +458,8 @@
 </bookmark>
 <bookmark href="https://clients.vhosting.com/clientarea.php" id="178">
   <title>Area Clienti - VHosting Solution</title>
+</bookmark>
+<bookmark href="https://drive.google.com/drive/folders/1uW6blycat-c_ESoLybbmrEllPczu-sTh" id="179">
+  <title>LIBRETTO - Google Drive</title>
 </bookmark>
 </xbel>
