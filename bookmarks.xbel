@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :180: for Floccus bookmark sync browser extension -->
+<!--- highestId :181: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.google.com/" id="1">
   <title></title>
@@ -18,11 +18,14 @@
 <bookmark href="https://cursor.com/dashboard?tab=usage" id="174">
   <title></title>
 </bookmark>
-<bookmark href="https://european-alternatives.eu/alternatives-to?ref=sidebar" id="7">
-  <title>European alternatives for popular services | European Alternatives</title>
+<bookmark href="https://docs.google.com/document/d/115xJAT0xsKiOGjaAKwj5Uc6Ffp1aF2vdIqq97WXnAuQ/edit?usp=sharing" id="181">
+  <title>Info cesare</title>
 </bookmark>
 <folder id="8">
   <title>open</title>
+  <bookmark href="https://openalternative.co/" id="180">
+    <title>Open Source Alternatives to Popular Software</title>
+  </bookmark>
   <bookmark href="https://www.opensourcealternative.to/project/appwrite" id="11">
     <title>Appwrite | Open Source Alternative to Firebase</title>
   </bookmark>
@@ -35,8 +38,8 @@
   <bookmark href="https://awesome-selfhosted.net/" id="16">
     <title>awesome-selfhosted</title>
   </bookmark>
-  <bookmark href="https://openalternative.co/" id="180">
-    <title>Open Source Alternatives to Popular Software</title>
+  <bookmark href="https://european-alternatives.eu/alternatives-to?ref=sidebar" id="7">
+    <title>European alternatives for popular services | European Alternatives</title>
   </bookmark>
 </folder>
 <folder id="9">
