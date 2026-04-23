@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :181: for Floccus bookmark sync browser extension -->
+<!--- highestId :182: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.google.com/" id="1">
   <title></title>
@@ -18,7 +18,7 @@
 <bookmark href="https://cursor.com/dashboard?tab=usage" id="174">
   <title></title>
 </bookmark>
-<bookmark href="https://docs.google.com/document/d/115xJAT0xsKiOGjaAKwj5Uc6Ffp1aF2vdIqq97WXnAuQ/edit?usp=sharing" id="181">
+<bookmark href="https://docs.google.com/document/d/115xJAT0xsKiOGjaAKwj5Uc6Ffp1aF2vdIqq97WXnAuQ/edit?tab=t.0" id="182">
   <title>INFO</title>
 </bookmark>
 <folder id="8">
