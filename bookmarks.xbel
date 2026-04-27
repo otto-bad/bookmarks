@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :182: for Floccus bookmark sync browser extension -->
+<!--- highestId :183: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.google.com/" id="1">
   <title></title>
@@ -37,6 +37,9 @@
   </bookmark>
   <bookmark href="https://awesome-selfhosted.net/" id="16">
     <title>awesome-selfhosted</title>
+  </bookmark>
+  <bookmark href="https://impeccable.style/" id="183">
+    <title>Impeccable: The missing upgrade to Anthropic&apos;s impeccable skill</title>
   </bookmark>
 </folder>
 <folder id="9">
