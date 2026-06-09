@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :189: for Floccus bookmark sync browser extension -->
+<!--- highestId :192: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.google.com/" id="1">
   <title></title>
@@ -152,6 +152,9 @@
       <title>Dashboard</title>
     </bookmark>
   </folder>
+  <bookmark href="https://www.nudges.fyi/" id="190">
+    <title>Nudges, Biases &amp; Heuristics for the Age of AI</title>
+  </bookmark>
 </folder>
 <folder id="10">
   <title>tips</title>
@@ -326,6 +329,9 @@
   <bookmark href="https://viewdns.info/" id="168">
     <title>ViewDNS.info - Your trusted source for domain and IP intelligence!</title>
   </bookmark>
+  <bookmark href="https://thesvg.org/" id="191">
+    <title>theSVG - 6,030+ Free Brand SVG Icons for Developers and Designers</title>
+  </bookmark>
   <bookmark href="https://dkimvalidator.com/" id="169">
     <title>DKIM, SPF, and Spam Assassin Validator - dkimvalidator.com</title>
   </bookmark>
@@ -473,5 +479,8 @@
 </bookmark>
 <bookmark href="https://dash.cloudflare.com/" id="187">
   <title>Cloudflare</title>
+</bookmark>
+<bookmark href="https://streamingcommunityz.associates/" id="192">
+  <title>StreamingCommunity</title>
 </bookmark>
 </xbel>
