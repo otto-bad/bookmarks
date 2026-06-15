@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :192: for Floccus bookmark sync browser extension -->
+<!--- highestId :193: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.google.com/" id="1">
   <title></title>
@@ -40,6 +40,9 @@
   </bookmark>
   <bookmark href="https://impeccable.style/" id="183">
     <title>Impeccable: The missing upgrade to Anthropic&apos;s impeccable skill</title>
+  </bookmark>
+  <bookmark href="https://github.com/GorvGoyl/Clone-Wars" id="193">
+    <title>GitHub - GorvGoyl/Clone-Wars: 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars. · GitHub</title>
   </bookmark>
 </folder>
 <folder id="9">
